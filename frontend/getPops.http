@@ -1,0 +1,2 @@
+### Get all restaurants
+GET http://localhost:1337/api/pops?populate=category,images
